@@ -1,0 +1,10 @@
+Componentes do react implemantam um metodo "render()"
+O render vai renderizar em tempo real o seu conteudo na página sem precisar atualizar
+
+Componente com estado
+(stateful component)
+"estado interno"
+Quando o dados de state de um componente são alterados, o código renderizado será atualizado invocando o método
+render() novamente
+
+ComponentDidMount=componente foi montado
